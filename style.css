@@ -1,5 +1,5 @@
 body {
-    background: url(.img/img_yosemite2.jpg);
+    background: url('img/img_yosemite2.jpg');
     background-size: 150vw;
 }
 
