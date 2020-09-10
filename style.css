@@ -1,6 +1,6 @@
 body {
-    background: url('img/img_yosemite2.jpg');
-    background-size: 150vw;
+    background: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/yosemite-national-park-black-and-white-judy-vincent.jpg);
+    background-size: 120vw;
 }
 
 .container {
