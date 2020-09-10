@@ -1,6 +1,6 @@
 # responsive-portfolio
 
-This is the beginning of a portfolio using bootstrap that will be updated reguarily. As of now, it primarily consists of photographs that I have taken and edited. Please enjoy!
+This is the beginning of a portfolio using bootstrap that will be updated regularly. As of now, it primarily consists of photographs that I have taken and edited. Please enjoy!
 
 # Links
 
