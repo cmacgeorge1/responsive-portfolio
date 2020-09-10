@@ -9,8 +9,8 @@ Live Link:
 
 # Screenshots
 
-![Page Layout](img/about_ss.png)
+![About](https://github.com/cmacgeorge1/responsive-portfolio/blob/master/img/About_ss.png)
 
-![Page Layout](img/contact_ss.png)
+![Contact](https://github.com/cmacgeorge1/responsive-portfolio/blob/master/img/Contact_ss.png)
 
-![Page Layout](img/portfolio_ss.png)
+![Portfolio](https://github.com/cmacgeorge1/responsive-portfolio/blob/master/img/Portfolio_ss.png)
