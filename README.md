@@ -5,7 +5,8 @@ This is the beginning of a portfolio using bootstrap that will be updated regula
 # Links
 
 GitHub Repository: https://github.com/cmacgeorge1/responsive-portfolio
-Live Link: 
+
+Live Link: https://cmacgeorge1.github.io/responsive-portfolio/index.html
 
 # Screenshots
 
