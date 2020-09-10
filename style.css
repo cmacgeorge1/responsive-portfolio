@@ -1,3 +1,8 @@
+body {
+    background: url(/img/img_yosemite2.jpg);
+    background-size: 150vw;
+}
+
 .container {
     padding: 20px;
     width: 66%;
@@ -17,10 +22,6 @@ footer {
     bottom: 0;
     height: 3%;
     color: white;
-}
-
-body {
-    background: url("file:///Users/chrismacgeorge/Code/uw-homework/responsive-portfolio/img/img_yosemite2.jpg");
 }
 
 h1 {
